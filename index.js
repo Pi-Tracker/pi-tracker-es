@@ -131,6 +131,7 @@ client.on('interactionCreate', async (interaction) => {
 [Gate.io](https://www.gate.io/price/pi-network-pi)
 [Pionex](https://www.pionex.com/trade/PI_USDT)/[Pionex.US](https://www.pionex.us/trade/PI_USDT)
 [MEXC](https://www.mexc.com/price/PI)
+[Banxa](https://www.banxa.com)
             
 Solo plataformas de trading verificados a través de [Pi Network's KYB](https://minepi.com/kyb-list/#VerifiedBusinesses) serán listados aquí.`)
             .setColor(0x4C2F71);
