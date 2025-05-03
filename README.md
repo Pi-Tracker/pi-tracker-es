@@ -61,7 +61,7 @@ Este proyecto está bajo la Licencia Pública General GNU v3.0. Consulta el arch
 
 # Ayuda
 
-https://pi-tracker.xyz/discord/
+https://discord.gg/kJ8eRH4kfe
 
 # Donar
 
