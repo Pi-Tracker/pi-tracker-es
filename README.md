@@ -1,6 +1,4 @@
-[![IMG-3575.jpg](https://i.postimg.cc/J4WrhhCW/IMG-3575.jpg)](https://postimg.cc/K4JSqxY9)
-
-[![IMG-3574.jpg](https://i.postimg.cc/j5rg7BxC/IMG-3574.jpg)](https://postimg.cc/wt0QKfsd)
+### A fecha de 25 de abril de 2026, Pi Tracker ya no se mantiene en servicio.
 
 # Acerca de
 
@@ -58,11 +56,3 @@ node index.js
 # Licencia 
 
 Este proyecto está bajo la Licencia Pública General GNU v3.0. Consulta el archivo LICENSE para más detalles.
-
-# Ayuda
-
-https://discord.gg/kJ8eRH4kfe
-
-# Donar
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mozzarella)
